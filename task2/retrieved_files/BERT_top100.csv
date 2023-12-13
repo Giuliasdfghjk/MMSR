@@ -1,0 +1,301 @@
+id,query_n,artist,song,genre,similarity
+7nlrtet64qvV65FT,query_1,Carpathian Forest,A Forest,"['black metal', 'norwegian black metal', 'metal', 'melodic death metal', 'electronica', 'new wave', 'post punk', 'new romantic', 'dark ambient', 'gothic rock', 'symphonic black metal', 'atmospheric black metal']",0.7999665949663077
+mUsFYYxxJYNNiXt9,query_1,Skid Row,18 and Life,"['hard rock', 'rock', 'metal', 'classic rock', 'glam metal', 'glam rock']",0.7886984578746036
+IASfo4axUh64qRtW,query_1,Skylar Spence,Private Caller,"['vaporwave', 'future funk']",0.7857157796565486
+b660hryv7iX10lqa,query_1,Frank Zappa,My Guitar Wants to Kill Your Mama,"['progressive rock', 'rock', 'classic rock', 'psychedelic rock', 'experimental rock', 'experimental', 'blues', 'avant garde', 'rhythm and blues', 'avant garde jazz', 'jazz', 'alternative rock', 'hard rock', 'blues rock', 'funk', 'garage rock', 'jam band', 'halloween', 'art rock', 'acid rock']",0.7843643357936949
+yhpTlaoFlj6GAKdN,query_1,Jamie Woon,Shoulda,"['soul', 'experimental', 'dubstep', 'ambient', 'singer songwriter', 'electronica', 'indie pop', 'dream pop', 'r b', 'deep house', 'art pop']",0.782115549541597
+2WpP3K6hVKeITVvv,query_1,Carrie Underwood,Kingdom,"['country', 'pop', 'country pop']",0.7781976016432764
+pcVAeUhGhpZrEZLb,query_1,Little Joy,Don't Watch Me Dancing,"['alternative rock', 'indie pop', 'rock', 'folk', 'indie rock', 'samba', 'beach music']",0.7780525635530277
+B3b1kht8dULMMLyd,query_1,The Rifles,The Great Escape,"['indie rock', 'britpop', 'rock', 'pop', 'alternative rock', 'indie pop']",0.7768387219236917
+33Dmw7IfH4587uMq,query_1,Talking Heads,Heaven - Live,"['rock', 'new wave']",0.7763008118795822
+WaBL1RvQlFOF4KVn,query_1,Céline Dion,I'm Alive,"['pop', 'easy listening', 'soundtrack', 'dance pop', 'rock', 'soul', 'samba', 'hip hop', 'emo', 'singer songwriter', 'pop rock', 'soft rock']",0.7747921815140797
+5wVmcGeuTgttH5E1,query_1,Grace Jones,This Is Dub,['dub'],0.7739828284382745
+hq6ofGKCsWAX4XUp,query_1,Muse,Forced In,"['rock', 'alternative rock', 'experimental', 'pop', 'space rock', 'progressive rock', 'jazz', 'punk', 'post rock', 'britpop', 'trip hop', 'avant garde', 'atmosphere', 'indie pop', 'indie rock', 'industrial', 'drum and bass', 'art rock', 'sleep', 'psychedelic rock', 'rain']",0.7738981188498221
+0MXDGjV7Qg5AEpGu,query_1,The Vines,In the Jungle,"['rock', 'indie rock', 'alternative rock', 'grunge', 'garage rock', 'punk', 'emo', 'hard rock', 'ska']",0.7727516365531025
+R4pWohpf8CTNL1Ml,query_1,Billie Holiday,Love Me or Leave Me,"['jazz', 'vocal jazz', 'blues', 'swing']",0.7721046622651776
+pPJlbWGF7oiXCpyb,query_1,Thalía,Noches Sin Luna,"['latin pop', 'pop', 'latin', 'gypsy', 'mexican pop']",0.7720762726574608
+QlwiTDUXdw6TlKMf,query_1,Big Mountain,Baby I Love Your Way,"['reggae', 'pop', 'lovers rock', 'soundtrack', 'easy listening']",0.771346953012066
+A0KFVSx2sCgrslZw,query_1,Bokka,Town Of Strangers,"['electropop', 'chamber pop', 'alternative pop', 'art pop']",0.7713301962099501
+0VaYUih1vEXMP6m7,query_1,Sonic Youth,Hey Joni,"['alternative rock', 'rock', 'noise rock', 'post punk', 'noise', 'experimental', 'indie rock', 'grunge', 'experimental rock', 'no wave', 'punk', 'avant garde', 'garage punk', 'classic rock', 'metal', 'singer songwriter', 'spoken word', 'garage rock']",0.7710199567020816
+Kgiu2ovOND7HCZBl,query_1,Maria Rita,Cara Valente,"['bossa nova', 'mpb', 'samba', 'latin', 'ambient', 'pop', 'downtempo', 'lounge', 'latin pop', 'chill out', 'samba jazz']",0.7705485545223081
+CUTLkOkFdyabaBcU,query_1,Catedral,Eu quero sol nesse jardim,['rock nacional'],0.7704438022542472
+LZI7G5GNQShBvuXT,query_1,Dokken,Kiss of Death,"['hard rock', 'metal', 'rock', 'power metal', 'melodic metal', 'glam metal']",0.7704317028409041
+oKyIMJNezbA5YSa4,query_1,PUFFY,Hi Hi Puffy AmiYumi Show Theme,"['j rock', 'cartoon', 'beach music']",0.7696679267627782
+Xfq4FrvagN2XWrwq,query_1,Tori Amos,Precious Things,"['singer songwriter', 'rock', 'alternative rock', 'pop', 'piano rock', 'soft rock', 'classic rock', 'folk', 'experimental', 'art rock', 'ambient', 'indie pop', 'post rock']",0.76929177344964
+V9Vcb4IFSD0nGscE,query_1,Shalamar,Make That Move,"['disco', 'soul', 'funk', 'pop', 'jazz funk', 'post disco', 'classic soul']",0.7691399670243055
+iPwlfM8JgRDQK6Zm,query_1,The Kills,Baby Says,"['indie rock', 'rock', 'garage rock', 'pop', 'alternative rock', 'garage rock revival']",0.7689326556768236
+7YUu0uDtV3y8I3em,query_1,Taylor Swift,Fifteen,"['country', 'pop', 'country pop', 'singer songwriter', 'hip hop', 'teen pop', 'folk', 'rap', 'pop rock', 'world', 'alternative country', 'disney', 'anthem']",0.7688107961850138
+oXpdQJTpASLJfFvM,query_1,En Vogue,Beat of Love,['soul'],0.7685696652701771
+UT4kkMWMoCPe7nvA,query_1,Bob Dylan,Tomorrow Is a Long Time,"['folk', 'rock', 'classic rock', 'singer songwriter', 'folk rock', 'lo fi', 'poetry', 'lullaby']",0.7682742479468225
+K3UlgXW5CaIFQRAQ,query_1,Belanova,"One, Two, Three, GO!","['pop', 'latin pop', 'electronica', 'latin', 'synthpop', 'electropop', 'rock', 'singer songwriter', 'electro', 'pop rock', 'dance pop', 'rock en espanol', 'latin rock', 'riot grrrl', 'electronic rock']",0.7681447364911391
+dVDEpkspD5rACPk2,query_1,Mountain,Theme For An Imaginary Western,"['classic rock', 'hard rock', 'rock', 'blues rock', 'southern rock', 'psychedelic rock', 'acid rock']",0.7680051124862489
+SsZpeQ0ij6ANQW4e,query_1,Swans,Screen Shot,"['post rock', 'noise rock', 'experimental', 'post punk', 'progressive rock']",0.7677140066270536
+ZTJbAtaY4EFPruTk,query_1,Howlin' Wolf,Wang Dang Doodle,"['blues', 'chicago blues', 'electric blues', 'rhythm and blues', 'soul', 'delta blues', 'rock', 'world', 'blues rock']",0.7675377819425545
+I6GIwClrEQGcZ3Jg,query_1,Ozzy Osbourne,Waiting For Darkness,"['hard rock', 'metal', 'classic rock', 'rock', 'stoner rock', 'doom metal', 'pop', 'stoner metal']",0.7666538107118475
+29aiuKxb44XIiRZ3,query_1,Electric Light Orchestra,Roll Over Beethoven,"['classic rock', 'rock', 'progressive rock', 'symphonic rock', 'rock and roll', 'pop', 'art rock', 'pop rock', 'classical', 'rockabilly', 'boogie', 'alternative rock', 'experimental', 'hard rock', 'new wave', 'violin', 'blues rock', 'rhythm and blues']",0.7660165393606827
+JswSrxldYzKXcABe,query_1,Suffocation,Prelude To Repulsion,"['death metal', 'brutal death metal', 'technical death metal', 'metal', 'technical brutal death metal', 'new york death metal']",0.7654450878450664
+8dw9bKWeq2ByiFJ5,query_1,Bryson Tiller,Don't,"['trap', 'hip hop', 'soul']",0.7654158560344754
+zLAHHVG1ajV9Ttk2,query_1,10 Years,Wasteland,"['alternative rock', 'rock', 'hard rock', 'alternative metal', 'punk', 'grunge', 'classic rock', 'metal', 'progressive metal', 'post grunge', 'nu metal', 'black metal', 'soul', 'emo', 'soft rock', 'thrash metal', 'southern rock', 'symphonic black metal', 'melodic hard rock']",0.7653518231042415
+9U37XRgnKeQNBKkB,query_1,Selena Gomez & The Scene,Spotlight,"['pop', 'electronica', 'disney']",0.7653370270901609
+x2udXvrt0a982gcR,query_1,tricot,Munasawagi,"['rock', 'math rock', 'j rock']",0.7652453202181216
+ZwoRE59igYTPCi41,query_1,Class Actress,Movies,['dream pop'],0.7651276514622432
+B2Ow0wihFKp7lcvp,query_1,Hood,They Removed All Trace That Anything Had Ever Happened Here,"['post rock', 'indietronica', 'electronica', 'glitch', 'rock', 'ambient', 'experimental', 'experimental rock']",0.7649261997455936
+Wh2R5KG2dUjc0Vo2,query_1,Yuck,Southern Skies,"['rock', 'indie pop']",0.7647107320052066
+kwVC7UCkaNUswXaw,query_1,Seether,Same Damn Life,"['rock', 'alternative rock', 'hard rock', 'post grunge']",0.7645498621077563
+pL1Qnfj8IPjKrzXu,query_1,Dolly Parton,Why'd You Come in Here Lookin' Like That,"['country', 'singer songwriter', 'pop']",0.7637541716450817
+4vPCXVXHeoXkniz9,query_1,Cássia Eller,Obrigado (Por Ter Se Mandado),['rock nacional'],0.7631378071160515
+SEKWAadQkV8v3i49,query_1,Korn,Cameltosis,"['nu metal', 'alternative metal', 'rock', 'metal', 'alternative rock', 'rap metal', 'hard rock', 'hip hop', 'rap', 'alternative hip hop', 'rap rock']",0.763018390648985
+37jPkefEWfJd234l,query_1,Client Liaison,Pretty Lovers,['synthpop'],0.7627972987111724
+KxryDZFfi0mkMMiM,query_1,Muse,Starlight,"['alternative rock', 'rock', 'progressive rock', 'indie rock', 'britpop', 'pop', 'space rock', 'piano rock', 'pop rock', 'emo', 'easy listening', 'electronica', 'hard rock']",0.762164637035027
+nER0NWWVKbazK90v,query_1,Leona Lewis,I Will Be,"['pop', 'soul', 'rock', 'hard rock', 'singer songwriter', 'pop rock', 'easy listening', 'world', 'britpop', 'r b', 'drama']",0.7615809528511773
+1PMNW9sRMoFJVfU3,query_1,Magic!,Let Your Hair Down,"['pop', 'reggae', 'hawaiian', 'reggae fusion']",0.76132511818562
+3x0r2GzzzL4kYJYb,query_1,The Maine,Everything I Ask For,"['alternative rock', 'pop punk', 'rock', 'punk', 'pop rock', 'pop', 'emo', 'power pop', 'indie rock']",0.7613067431896692
+GlCxKUq2124zirRO,query_1,Gojira,The Gift of Guilt,"['progressive death metal', 'progressive metal', 'death metal', 'groove metal', 'metal', 'technical death metal', 'melodic death metal', 'thrash metal']",0.7612423986733661
+xeUNHwOZoqNrQS0f,query_1,Death Cab for Cutie,Talking Bird,"['indie rock', 'rock', 'shoegaze', 'downtempo', 'pop rock', 'pop', 'alternative rock', 'dream pop']",0.7610769962233094
+tTTB02zXLvB6B8Yn,query_1,Edenbridge,Higher,"['symphonic metal', 'power metal', 'gothic metal', 'symphonic rock', 'metal', 'melodic metal', 'symphonic power metal']",0.7610369613039278
+kNjGLH3TsdTQJyGT,query_1,Fad Gadget,Swallow It,"['new wave', 'post punk', 'avant garde', 'synthpop', 'minimal synth']",0.7608415130974661
+6RqYGJ4HLFTDPL6f,query_1,Tim Buckley,Carnival Song,"['folk', 'singer songwriter', 'folk rock', 'classic rock', 'psychedelic folk', 'chanson', 'rock', 'experimental rock', 'easy listening', 'circus']",0.7606481512366904
+MPbTPV2pUgDvLWWp,query_1,LMFAO,Sorry for Party Rocking,"['electropop', 'pop', 'hip hop', 'electronica', 'rap', 'easy listening', 'crunk', 'comedy', 'dance pop']",0.7604387119590872
+BHD2s75iuFKhHQEe,query_1,Sonic Youth,Sleepin' Around,"['rock', 'indie rock', 'experimental', 'alternative rock', 'noise rock', 'noise', 'lo fi', 'post punk', 'grunge', 'experimental rock', 'no wave']",0.7603247910151302
+RsYjLxoQ2TTahxSx,query_1,Steely Dan,The Caves Of Altamira,"['jazz rock', 'rock', 'classic rock', 'jazz', 'progressive rock', 'jazz fusion', 'smooth jazz', 'soft rock']",0.7600531403072178
+rJZHW0CqgJfx7raC,query_1,will.i.am,Smile Mona Lisa,"['hip hop', 'classical', 'baroque', 'pop']",0.759988924785302
+0Wc7JGEjjUDM4vp2,query_1,Gregory Alan Isakov,Fire Escape,['folk'],0.759569813444582
+jj54uH9K3Fzvqtma,query_1,Ariana Grande,Honeymoon Avenue,"['pop', 'soul', 'r b', 'doo wop']",0.7594520943563657
+46YSASvaptitJROM,query_1,Bigbang,BEAUTIFUL HANGOVER,"['k pop', 'j pop', 'korean pop', 'boy band']",0.7589897640439593
+87Ct1HWIQ8QBLuP9,query_1,Post Malone,Better Now,"['trap', 'hip hop', 'pop', 'rap', 'pop rap', 'emo rap']",0.7588057494707913
+sdFkhRQdC3Xg9j6R,query_1,Lil Uzi Vert,XO TOUR Llif3,"['emo rap', 'trap', 'emo', 'rap', 'hip hop']",0.7586314002366434
+mTCFG1ROdedd9GrX,query_1,Green Day,Fashion Victim,"['punk', 'rock', 'alternative rock', 'pop punk', 'hard rock', 'post grunge', 'metal', 'pop', 'emo', 'singer songwriter', 'pop rock', 'alternative pop rock', 'thrash metal']",0.7585647605189995
+DArUwcsALoeK9DA0,query_1,Fenix TX,Threesome,"['pop punk', 'punk', 'pop', 'rock', 'rap', 'alternative rock', 'hardcore', 'emo', 'hard rock', 'death metal']",0.758325195091511
+yDcnXFuvdQw9B4vm,query_1,Led Zeppelin,Over the Hills and Far Away,"['classic rock', 'rock', 'hard rock', 'blues rock', 'progressive rock', 'folk rock', 'blues', 'rock and roll', 'british blues', 'metal', 'stoner rock', 'album rock', 'art rock', 'psychedelic rock']",0.7582895165440626
+dPOie66EZeje1GTe,query_1,Aretuza Lovi,Vagabundo (Ruxell Remix),['pop'],0.7577115314355761
+FZCEOiZ8WMYcgAkh,query_1,MS MR,Reckless,"['indie pop', 'pop']",0.7575385873489068
+vDXodggcmGNc08aX,query_1,Anathema,Feel,"['doom metal', 'progressive rock', 'progressive metal', 'metal', 'alternative rock', 'gothic metal', 'rock', 'melodic metal', 'funeral doom']",0.7573869649896685
+YlEb3N0CPjUN5Enl,query_1,Him,Heartkiller,"['rock', 'alternative rock', 'soft rock', 'gothic rock', 'alternative metal', 'hard rock', 'metal', 'emo', 'gothic metal', 'dark rock', 'glam metal', 'doom metal', 'pop rock', 'glam rock']",0.7573780394713338
+2hwKURB3KmwZawRT,query_1,The Hives,You Dress Up For Armageddon,"['rock', 'garage rock', 'indie rock', 'garage punk', 'punk', 'alternative rock', 'classic rock', 'hard rock', 'post punk', 'bible']",0.7573638196059753
+ubGz9esop9IWnc9o,query_1,Austra,Hate Crime,"['synthpop', 'new wave', 'coldwave', 'indie pop', 'easy listening', 'melancholia']",0.7571289853378105
+7xc9UIb5zPlwc5OA,query_1,Gregory Isaacs,Night Nurse,"['reggae', 'roots reggae', 'lovers rock', 'dub', 'dancehall', 'dub reggae']",0.7571092795154054
+ksKNiVAiM8mDS3Ir,query_1,Scissor Sisters,Skin Tight,"['pop', 'disco', 'glam rock', 'nu disco']",0.7568716148987668
+cxQ8ubQsI3P1L41V,query_1,Easy Star All-Stars,Let Down,"['reggae', 'dub', 'ska', 'rock steady', 'novelty', 'mantra', 'roots reggae']",0.7568276126351602
+4gKA9InAlaRW9QX4,query_1,Sarcófago,Satanas,"['black metal', 'thrash metal', 'death metal', 'metal']",0.756733768703327
+pmHcEjRa4hDAZZCP,query_1,Maxwell,Sumthin' Sumthin',"['soul', 'neo soul', 'funk', 'singer songwriter', 'pop', 'rock', 'downtempo', 'easy listening', 'lounge', 'r b', 'rhythm and blues', 'chill out']",0.7565263693033474
+Mi7w8MTfy0SWuBRR,query_1,"Emerson, Lake & Palmer",Knife-Edge,"['progressive rock', 'classic rock', 'rock', 'symphonic rock', 'art rock', 'classical', 'hard rock']",0.7564605921052233
+BqMdwBSopxmBesGx,query_1,Katatonia,Funeral Wedding,"['doom metal', 'metal', 'progressive metal', 'death metal', 'black metal', 'melodic death metal']",0.7564492586662219
+7bbCXbz5k2bdp6Kx,query_1,Ed Sheeran,Shape of You,"['pop', 'dancehall', 'tropical house', 'dance pop', 'synthpop', 'electropop', 'folk', 'singer songwriter', 'funk', 'house', 'noise pop', 'tropical']",0.7563579307318243
+F3Z9AkXlCdGosb68,query_1,Matt Corby,No Ordinary Life,"['pop', 'soul', 'folk', 'contemporary folk', 'smooth soul', 'psychedelic soul', 'psychedelic pop', 'neo soul']",0.7563398961395699
+bE0bOackQ2G33HGv,query_1,Mew,Snow Brigade,"['indie rock', 'rock', 'alternative rock', 'progressive rock', 'dream pop', 'shoegaze', 'pop', 'indie pop', 'post rock', 'art rock', 'emo', 'folk']",0.7562713966556459
+jOEL85ImTTwtWGYP,query_1,Europe,Open Your Heart,"['hard rock', 'rock', 'classic rock', 'glam rock', 'trance', 'progressive rock', 'chill out', 'glam metal']",0.7559866985487613
+NFIO4M1w1B1hKtIP,query_1,Art Garfunkel,All I Know,"['pop', 'singer songwriter', 'folk', 'easy listening', 'soft rock', 'soundtrack', 'classic rock', 'rock', 'folk rock', 'sleep', 'folk pop', 'disney']",0.7559388930789602
+5YSYXq6DEMzRslCN,query_1,Daughtry,What Have We Become,"['rock', 'post grunge']",0.7559182721466966
+upo355iGHGBpjOWs,query_1,Mandragora Scream,The Circus,['gothic metal'],0.755709577850027
+rLoba8KVXSarHEbw,query_1,Havok,Hang 'Em High,['thrash metal'],0.7556948102065242
+AdIjOsJtx97kFTbL,query_1,Hippo Campus,Doubt,['rock'],0.7556864866628122
+cSz91lcJDuziR5nx,query_1,Suede,Everything Will Flow,"['britpop', 'rock', 'alternative rock', 'indie rock', 'pop', 'easy listening', 'indie pop', 'chamber pop', 'violin', 'glam rock', 'alternative pop']",0.7554528242208032
+Cby7rMD73wrxtnxs,query_1,Johnny Cash,"Cry, Cry, Cry","['country', 'folk', 'singer songwriter', 'outlaw country', 'pop', 'rock', 'emo', 'rock and roll']",0.7554200145176251
+dUrkOzllVZcg7EWu,query_1,The Cheetah Girls,Uh Oh,"['disney', 'pop', 'pop rock']",0.755176246740226
+qpzEfMcAgRw2249D,query_1,El-P,Drones Over BKLYN,"['hip hop', 'rap', 'experimental']",0.7551016761670539
+z0838n6ZpCdVWSE1,query_1,Built to Spill,Big Dipper,"['indie rock', 'rock', 'alternative rock', 'indie pop', 'lo fi', 'psychedelic rock', 'jam band', 'post hardcore', 'noise pop']",0.7550330278516518
+gdaXlocrVDqmuMhL,query_1,Jessie Ware,Swan Song,"['soul', 'quiet storm', 'sophisti pop', 'pop', 'electropop', 'singer songwriter', 'electro', 'synthpop', 'rhythm and blues', 'neo soul', 'pop soul']",0.754993922757277
+jUrFd5jXG8ckGZtR,query_1,Talk Talk,John Cope,"['rock', 'post rock', 'pop', 'new wave']",0.7549582027577538
+Z7UkcCev76bpULVS,query_1,Frank Sinatra,I've Got You Under My Skin,"['jazz', 'swing', 'easy listening', 'vocal jazz', 'big band', 'lounge', 'pop', 'blues', 'singer songwriter', 'soul', 'cool jazz', 'smooth jazz', 'ballroom']",0.7547385675804467
+zQJZIc5Zts7aztmE,query_1,Thy Art Is Murder,Dead Sun,"['deathcore', 'death metal', 'technical deathcore', 'metal', 'hardcore', 'technical death metal', 'brutal death metal', 'brutal deathcore', 'progressive deathcore']",0.7546567552709443
+Zmda0dNL3Q09ndCz,query_1,Black Alien,U - Informe,['rap'],0.7546549540457358
+R299Ek2s6duUufTp,query_2,Dave Stewart,Heart Of Stone,"['pop', 'rock', 'pop rock']",0.7999665949663077
+Qq299h5cR4S4uLMH,query_2,Syd Matters,To All of You,"['folk', 'singer songwriter', 'indie pop', 'pop', 'ambient', 'folk rock', 'soundtrack', 'chamber pop', 'dream pop', 'indie folk', 'folk pop']",0.7886984578746036
+L5hzUwJxVruePOF5,query_2,Empire! Empire! (I Was a Lonely Estate),"With Your Greatest Fears Realized, You Will Not Be Comforted","['emo', 'chamber pop', 'indie folk']",0.7857157796565486
+xYGPO7c3AKZcsoEt,query_2,Robert Johnson,32-20 Blues,"['blues', 'delta blues', 'acoustic blues', 'folk', 'country blues', 'hardcore']",0.7843643357936949
+zoVx87fOsgF5xb6X,query_2,All Time Low,I Feel Like Dancin',"['pop punk', 'pop', 'punk', 'rock', 'pop rock', 'alternative rock', 'power pop', 'easy listening', 'easycore']",0.782115549541597
+aRgCqi8DP1hZ9SHY,query_2,Chelsea Wolfe,Destruction Makes the World Burn Brighter,"['gothic rock', 'pop', 'anime', 'j pop', 'emo', 'comedy', 'rock', 'gothic metal', 'symphonic metal', 'visual kei', 'power metal', 'metal']",0.7781976016432764
+dQ1IXkmYyX8syMzq,query_2,Varius Manx,Maj,"['pop rock', 'pop', 'rock', 'soft rock', 'polish rock']",0.7780525635530277
+xXYvnpjwvh8ga8jF,query_2,Westlife,Something Right,"['pop', 'britpop', 'emo', 'easy listening', 'uk pop', 'boy band', 'pop dance']",0.7768387219236917
+zH5MrHCMX1Y3Bd7t,query_2,Slash,Bad Rain,"['hard rock', 'classic rock', 'rock', 'rain']",0.7763008118795822
+upMpN1ww8tOWnbhS,query_2,Edie Brickell and New Bohemians,What I Am,"['rock', 'alternative rock', 'pop', 'folk', 'folk rock', 'soft rock', 'funk', 'jangle pop', 'disco', 'classic rock', 'singer songwriter', 'progressive rock', 'pop rock', 'new wave', 'theme', 'christian music', 'chill out']",0.7747921815140797
+3x0r2GzzzL4kYJYb,query_2,The Maine,Everything I Ask For,"['alternative rock', 'pop punk', 'rock', 'punk', 'pop rock', 'pop', 'emo', 'power pop', 'indie rock']",0.7739828284382745
+aaNqfMsIh8nmzAJu,query_2,Nightwish,The Kinslayer,"['symphonic metal', 'gothic metal', 'power metal', 'metal', 'symphonic power metal', 'opera metal', 'melodic metal', 'rock', 'finnish metal', 'gothic rock', 'progressive metal', 'symphonic rock', 'melodic power metal', 'gothic symphonic metal', 'hard rock', 'progressive rock', 'viking metal', 'celtic']",0.7738981188498221
+xFHmLuGPrHQpfw5b,query_2,Letrux,Vai render,['pop rock'],0.7727516365531025
+ISNATR0AI3EGe2a8,query_2,Thompson Square,Are You Gonna Kiss Me or Not,"['country', 'country rock']",0.7721046622651776
+uRNge3sN74NdIaYi,query_2,Pixie Lott,My Love,"['pop', 'pop dance', 'soul', 'singer songwriter', 'britpop']",0.7720762726574608
+NvVUJYOjutADKWDi,query_2,Deathstars,Arclight,"['industrial metal', 'industrial', 'gothic metal', 'metal', 'industrial rock', 'gothic rock']",0.771346953012066
+YFZDI3kezaOkH2Ij,query_2,Death in June,Break The Black Ice,"['neofolk', 'dark folk', 'experimental', 'post punk', 'rock', 'folk', 'indie rock', 'industrial', 'dark ambient', 'martial industrial']",0.7713301962099501
+YFPWzFgIcn8QIY6Q,query_2,Red Vox,Running To Forget,"['alternative rock', 'folk rock', 'acoustic rock']",0.7710199567020816
+4OyNdHKtPBzKAAyj,query_2,Immortal,Gates To Blashyrkh,['black metal'],0.7705485545223081
+gCJQsoz5c5L7hUEg,query_2,Sepultura,Clenched Fist,"['thrash metal', 'metal', 'groove metal', 'death metal', 'hardcore', 'rock', 'grindcore', 'industrial metal']",0.7704438022542472
+3KFG48wFtCiK5rRC,query_2,Blind Guardian,Ashes of Eternity,"['power metal', 'symphonic metal', 'progressive metal', 'symphonic power metal']",0.7704317028409041
+sIdgM3ViUqhQmfy9,query_2,Ace of Base,Strange Ways,"['pop', 'eurodance', 'pop rock', 'europop']",0.7696679267627782
+tddx4dWD9zLD1viM,query_2,Sugababes,Joy Division,"['pop', 'britpop', 'pop rock']",0.76929177344964
+M4NRqxtVGNbNLBab,query_2,Cher,Main Man,"['rock', 'pop rock', 'pop', 'soul', 'easy listening']",0.7691399670243055
+vjUR24FBM8YCtRe6,query_2,Underoath,The Impact of Reason,"['screamo', 'hardcore', 'metalcore', 'post hardcore', 'emo', 'emocore', 'rock', 'metal', 'melodic hardcore', 'melodic metal', 'christian hardcore', 'christian metal', 'alternative rock', 'hard rock', 'noise', 'pop rock', 'mathcore', 'christian metalcore', 'skramz', 'melodic metalcore']",0.7689326556768236
+g919O4r7ucveeBs0,query_2,Kreayshawn,Luv Haus,"['electronica', 'grime', 'electro', 'dance pop', 'synthpop']",0.7688107961850138
+V8gpwrBWuEYG0f4S,query_2,Cannibal Corpse,Severed Head Stoning,"['death metal', 'brutal death metal', 'metal', 'grindcore', 'technical death metal', 'florida death metal']",0.7685696652701771
+WaBL1RvQlFOF4KVn,query_2,Céline Dion,I'm Alive,"['pop', 'easy listening', 'soundtrack', 'dance pop', 'rock', 'soul', 'samba', 'hip hop', 'emo', 'singer songwriter', 'pop rock', 'soft rock']",0.7682742479468225
+cFffK4BKOwdMqbfP,query_2,R.E.M.,Überlin,"['rock', 'alternative rock']",0.7681447364911391
+0XSKxF0xHVJYLAEi,query_2,Matisyahu,Sunshine,"['reggae', 'hip hop', 'rap', 'easy listening', 'beats', 'anthem', 'reggae rock']",0.7680051124862489
+wuc1u9C72WcTzgab,query_2,Kublai Khan,The Hammer,['metalcore'],0.7677140066270536
+j3M5wIzPIMZO9UdB,query_2,Kate Bush,Prologue,"['singer songwriter', 'rock', 'pop', 'progressive rock', 'art rock', 'electronica', 'symphonic rock', 'glitch', 'trip hop', 'braindance', 'drama', 'art pop']",0.7675377819425545
+rEWX59HPtwBwN6ew,query_2,Barenaked Ladies,One Week,"['rock', 'pop', 'alternative rock', 'pop rock', 'classic rock', 'geek rock', 'soundtrack', 'indie rock', 'power pop']",0.7666538107118475
+563sr6vvVfkIypJH,query_2,Bhad Bhabie,No More Love,"['hip hop', 'trap']",0.7660165393606827
+rJMmLMMyVqoVT9fL,query_2,Goo Goo Dolls,Dizzy,"['rock', 'alternative rock', 'pop rock', 'punk', 'post grunge', 'pop', 'indie rock', 'emo', 'modern rock', 'grunge', 'hard rock', 'power pop', 'easy listening', 'alternative metal']",0.7654450878450664
+LrHDtYGETwyw1age,query_2,Riverside,Driven To Destruction,"['progressive metal', 'progressive rock', 'polish prog', 'rock', 'metal']",0.7654158560344754
+FZCEOiZ8WMYcgAkh,query_2,MS MR,Reckless,"['indie pop', 'pop']",0.7653518231042415
+vCBgO0r5jQIBKnt3,query_2,Ryan Adams,Anybody Wanna Take Me Home,"['singer songwriter', 'rock', 'country rock', 'folk', 'new wave', 'alternative country', 'drama']",0.7653370270901609
+8KgXnc0FVKoPu51K,query_2,Smash Into Pieces,YOLO,['alternative rock'],0.7652453202181216
+UqvbMKf8wsQe9o2X,query_2,Chaka Khan,Papillon (Aka Hot Butterfly),"['soul', 'funk', 'pop', 'jazz', 'smooth jazz', 'rhythm and blues', 'classic soul']",0.7651276514622432
+Wo7ttQito032fSkb,query_2,Willie Colón,Que Lio,['salsa'],0.7649261997455936
+ziT77Si01mOb5oZg,query_2,Frank Sinatra,Jingle Bells,"['jazz', 'swing', 'easy listening', 'bells', 'lounge']",0.7647107320052066
+siNCGggq2wmXrd8j,query_2,Scott Walker,Tilt,"['avant garde', 'singer songwriter', 'experimental', 'outsider', 'art rock']",0.7645498621077563
+JswSrxldYzKXcABe,query_2,Suffocation,Prelude To Repulsion,"['death metal', 'brutal death metal', 'technical death metal', 'metal', 'technical brutal death metal', 'new york death metal']",0.7637541716450817
+LoUB6rTVEQe54TTo,query_2,Beartooth,Clever,"['metalcore', 'metal', 'hardcore', 'post hardcore', 'hardcore punk']",0.7631378071160515
+x3wfcyxEQjeCrl8b,query_2,One Direction,Midnight Memories,"['pop', 'pop rock', 'rock', 'anthem', 'britpop', 'talent show']",0.763018390648985
+NSmZr7XrlAkrBR7x,query_2,The Hillbilly Moon Explosion,My Love For Evermore,['rockabilly'],0.7627972987111724
+R4WNiaWidjO9Tb4M,query_2,Muse,Unnatural Selection,"['alternative rock', 'progressive rock', 'rock', 'indie rock', 'hard rock', 'space rock', 'art rock', 'symphonic rock', 'emo', 'psychedelic rock', 'power pop', 'speed metal', 'pop rock']",0.762164637035027
+QC0MFa1Jqct6Colr,query_2,Evanescence,Weight of the World,"['rock', 'gothic rock', 'metal', 'gothic metal', 'alternative rock', 'nu metal', 'symphonic metal', 'hard rock', 'progressive rock', 'dark rock', 'jazz', 'pop', 'singer songwriter', 'pop rock', 'blues', 'alternative metal', 'christian rock', 'modern rock', 'post grunge']",0.7615809528511773
+Gth03dpW3NAXMb65,query_2,Fatboy Slim,Sunset (Bird of Prey),"['big beat', 'electronica', 'house', 'breakbeat', 'ambient', 'electro', 'techno', 'trance', 'funky breaks', 'funk', 'trip hop', 'rock', 'downtempo', 'noise', 'pop', 'electroclash', 'easy listening', 'lounge', 'drum and bass', 'jungle', 'breaks', 'beats', 'progressive house']",0.76132511818562
+9SNfrAKOc6FtkLgx,query_2,The Offspring,(Can't Get My) Head Around You,"['punk', 'rock', 'alternative rock', 'hard rock', 'grunge', 'classic rock', 'metal', 'pop punk', 'skate punk', 'rockabilly', 'indie rock', 'ska', 'pop', 'pop rock', 'alternative pop rock', 'new wave', 'latin', 'blues', 'hardcore punk']",0.7613067431896692
+wfwJZ8ZBDOrQDsRA,query_2,The Offspring,Killboy Powerhead,"['punk', 'rock', 'alternative rock', 'skate punk', 'hard rock', 'pop punk', 'new wave']",0.7612423986733661
+0FfoKa4zHXdvTsgU,query_2,Mother Mother,The Stand,"['rock', 'indie pop', 'indie rock']",0.7610769962233094
+NxDuAw545ivgXqgP,query_2,Bastille,Of the Night,"['pop', 'indie pop', 'rock', 'alternative dance', 'electronica', 'alternative rock', 'indie rock', 'power pop', 'new wave', 'dance pop', 'house', 'indietronica', 'mashup', 'dream pop', 'synthpop', 'alternative pop', 'dance rock']",0.7610369613039278
+j2tMN8BEiUxfXGRH,query_2,Motion City Soundtrack,Shiver,"['emo', 'pop punk', 'rock', 'punk', 'alternative rock', 'indie rock', 'power pop', 'pop rock', 'post hardcore', 'anthem']",0.7608415130974661
+w1ptcoRD8YZGdr8g,query_2,Pet Shop Boys,Do I Have To?,"['pop', 'electronica', 'new wave', 'disco', 'synthpop', 'rock', 'dance pop']",0.7606481512366904
+JCYADEbn7MkX75jk,query_2,Nina Nesbitt,Peroxide,"['pop', 'folk']",0.7604387119590872
+uwTDL9SShQZra5sJ,query_2,Luis Bacalov,Django,"['soundtrack', 'country']",0.7603247910151302
+OwRx3TAJLm4dPu4U,query_2,Bad Suns,Sleep Paralysis,['indie rock'],0.7600531403072178
+1H7yQe1NljCbMapi,query_2,UFO,Doctor Doctor - 2007 Remaster,"['classic rock', 'rock', 'hard rock']",0.759988924785302
+Kgiu2ovOND7HCZBl,query_2,Maria Rita,Cara Valente,"['bossa nova', 'mpb', 'samba', 'latin', 'ambient', 'pop', 'downtempo', 'lounge', 'latin pop', 'chill out', 'samba jazz']",0.759569813444582
+ksKNiVAiM8mDS3Ir,query_2,Scissor Sisters,Skin Tight,"['pop', 'disco', 'glam rock', 'nu disco']",0.7594520943563657
+R5eevLpLH98iQIPy,query_2,Joy Division,From Safety to Where,"['post punk', 'new wave', 'rock', 'alternative rock', 'punk', 'gothic rock', 'dark wave', 'noise', 'classic rock', 'pop', 'experimental', 'wave', 'madchester', 'coldwave', 'bassline']",0.7589897640439593
+qGHDYOyP7HMPvxKJ,query_2,Tears for Fears,Shout,"['new wave', 'pop', 'rock', 'synthpop', 'classic rock', 'new romantic', 'pop rock', 'soft rock']",0.7588057494707913
+ohbvGoXAJ9BPZk51,query_2,Lindsay Lohan,Very Last Moment in Time,"['pop', 'rock', 'teen pop', 'pop rock', 'emo', 'soft rock', 'disney', 'bubblegum pop']",0.7586314002366434
+CsfpOZDunV0c8zq8,query_2,Nevermore,Inside Four Walls,"['progressive metal', 'thrash metal', 'power metal', 'metal', 'groove metal', 'power thrash', 'progressive power metal']",0.7585647605189995
+m6OGhsNzYAwcxXor,query_2,Unwound,Treachery,"['post punk', 'experimental rock', 'post hardcore', 'punk', 'alternative rock', 'math rock', 'hardcore', 'indie rock', 'art rock']",0.758325195091511
+326LMSn4SJdPnm1d,query_2,Lady Gaga,Alejandro,"['pop', 'electropop', 'dance pop', 'synthpop', 'electronica', 'house', 'europop', 'disco', 'eurodance', 'rock', 'latin']",0.7582895165440626
+D46DF60xWITpICPL,query_2,Jonathan Davis,Basic Needs,['nu metal'],0.7577115314355761
+ojtZnYHxoTtRi91i,query_2,Shakira,Your Embrace,"['pop', 'singer songwriter', 'latin', 'rock', 'latin pop', 'pop rock', 'soul', 'trip hop', 'dance pop', 'folk']",0.7575385873489068
+gBkPbITCWGoLwu55,query_2,The Jesus Lizard,One Evening,"['noise rock', 'alternative rock', 'grunge', 'rock']",0.7573869649896685
+6zDgi5WXaUichqZ7,query_2,Totalselfhatred,Mighty Black Dimensions,"['depressive black metal', 'atmospheric black metal', 'black metal', 'metal']",0.7573780394713338
+yKK2DA8DfGApSgSp,query_2,Caetano Veloso,Trem Das Cores,"['mpb', 'pop', 'bossa nova', 'latin', 'tropicalia']",0.7573638196059753
+w9zlTnpRoEhL2ogJ,query_2,U2,Lights of Home,"['rock', 'hard rock']",0.7571289853378105
+Ht4qhPvFoG95vSSj,query_2,Blur,Trailerpark,"['britpop', 'rock', 'art rock', 'experimental rock', 'pop', 'alternative rock', 'indie pop', 'trip hop', 'alternative pop', 'electronica']",0.7571092795154054
+06zhrAWwQitLxdXr,query_2,S. Carey,Mothers,"['folk', 'singer songwriter', 'indie folk', 'ambient']",0.7568716148987668
+nkcT8p5p79e83Nh2,query_2,Wye Oak,Glory,"['synthpop', 'rock', 'indie rock', 'shoegaze', 'dream pop', 'nu disco']",0.7568276126351602
+PNLSJajLOGUDAPyd,query_2,Gentle Giant,Pantagruel's Nativity,"['progressive rock', 'classic rock', 'art rock', 'rock', 'ambient', 'experimental', 'hard rock', 'jazz rock']",0.756733768703327
+HgImdPHY2r03vbTh,query_2,Dinosaur Jr.,Keep The Glove,"['alternative rock', 'grunge', 'noise pop', 'noise', 'rock', 'punk']",0.7565263693033474
+NGLzqIO1fgzl80rR,query_2,Green Day,Amanda,"['pop punk', 'rock', 'punk', 'alternative rock', 'hard rock']",0.7564605921052233
+u6NtZfPArPnfwGXL,query_2,Judas Priest,Ram It Down,"['metal', 'hard rock', 'speed metal', 'nwobhm', 'classic rock', 'rock', 'power metal', 'doom metal', 'thrash metal']",0.7564492586662219
+c6cySvz6XIUrbltJ,query_2,Grateful Dead,Estimated Prophet,"['classic rock', 'jam band', 'rock', 'pop', 'reggae', 'folk', 'progressive rock', 'sleep', 'psychedelic rock', 'modern blues']",0.7563579307318243
+mUsFYYxxJYNNiXt9,query_2,Skid Row,18 and Life,"['hard rock', 'rock', 'metal', 'classic rock', 'glam metal', 'glam rock']",0.7563398961395699
+2CJ1Jent15MZxXMP,query_2,Jason Aldean,Any Ol' Barstool,['country'],0.7562713966556459
+bgVO1I8YSftydb0F,query_2,Johnny Winter,Rock Me Baby,"['blues', 'blues rock', 'classic rock', 'rock', 'modern blues']",0.7559866985487613
+99Sah4IDA97YSb16,query_2,Nadia Oh,Hot Like Wow,"['pop', 'electronica', 'electropop', 'house', 'electro house']",0.7559388930789602
+c9azALt30ol36Sfr,query_2,Iron Maiden,Childhood's End,"['metal', 'nwobhm', 'rock', 'power metal', 'hard rock', 'folk metal', 'classic rock']",0.7559182721466966
+37jPkefEWfJd234l,query_2,Client Liaison,Pretty Lovers,['synthpop'],0.755709577850027
+5rcsa2ZbpzYEcsvU,query_2,Isaac Hayes,Walk on By,"['soul', 'funk', 'rhythm and blues', 'classic soul', 'blues', 'motown', 'soundtrack', 'jazz', 'quiet storm', 'lounge', 'pop', 'jazz funk', 'r b', 'erotica']",0.7556948102065242
+TmhEi0Z91beKiZgT,query_2,Crystal Castles,Affection,"['experimental', 'witch house', 'electronica', 'lo fi', 'electropop', 'electro', 'synthpop', 'chillwave', 'rock', 'indietronica', 'ambient', 'experimental pop', 'glitch', 'new rave', 'dream pop', 'avant garde', 'r b', 'dark ambient', 'glitch pop', 'art pop']",0.7556864866628122
+HdavlfT9eh8AnBP8,query_2,Marissa Nadler,Your Heart Is a Twisted Vine,"['folk', 'singer songwriter']",0.7554528242208032
+qC7ceAGbRHfpunxl,query_2,Suede,Breakdown,"['britpop', 'rock', 'indie rock', 'pop', 'alternative rock', 'metal', 'indie pop', 'alternative pop rock', 'dream pop', 'garage rock']",0.7554200145176251
+8qQGED0CK83gqK2H,query_2,Sheryl Crow,Redemption Day,"['rock', 'country rock', 'singer songwriter', 'pop', 'blues rock', 'soundtrack', 'country', 'alternative rock', 'soft rock', 'folk rock', 'roots rock', 'rain', 'progressive death metal']",0.755176246740226
+MZxbITH42eviVURJ,query_2,Amon Düül II,Archangels Thunderbird,"['krautrock', 'progressive rock', 'psychedelic rock', 'experimental', 'rock', 'experimental rock', 'classic rock', 'heavy psych', 'hard rock', 'avant garde', 'art rock', 'german rock']",0.7551016761670539
+wRA8fO9XmITYuccS,query_2,Theory of a Deadman,Say Goodbye,"['rock', 'alternative rock', 'hard rock', 'soundtrack', 'post grunge', 'grunge', 'rock and roll', 'metal', 'pop rock', 'canadian rock']",0.7550330278516518
+IdJaVPfRHFTwXQHs,query_2,The Runaways,Midnight Music,"['rock', 'punk', 'glam rock', 'classic rock', 'metal', 'hard rock', 'garage rock', 'hollywood']",0.754993922757277
+9E4Zp3b9190yQ6RM,query_2,Catherine Wheel,I Confess,"['shoegaze', 'alternative rock', 'rock', 'electropop']",0.7549582027577538
+yyFGA7GNOXrg7Ebn,query_2,Grandaddy,Broken Household Appliance National Forest,"['rock', 'indie rock', 'downtempo', 'tango', 'space rock', 'football', 'future rock']",0.7547385675804467
+uUinb1esT5h4elIH,query_2,Coldplay,Help Is Round the Corner,"['rock', 'britpop', 'pop', 'electronica', 'alternative rock', 'emo', 'ska', 'piano rock', 'alternative pop']",0.7546567552709443
+AXA5LpwC9PJUG4bE,query_2,Beck,Morning,"['rock', 'singer songwriter', 'folk rock', 'folk', 'pop', 'alternative rock', 'indie rock', 'pop rock', 'world', 'soft rock', 'dream pop', 'ska punk']",0.7546549540457358
+0mwlDzSl5gaOYcfD,query_3,The Congos,La La Bam-bam,"['reggae', 'roots reggae']",0.7999665949663077
+fIfdkBVUdgkNpyjx,query_3,Steve Miller Band,Abracadabra - Remastered 2017,['country'],0.7886984578746036
+W3CCtzRjme0zjren,query_3,Salut C'est Cool,Techno toujours pareil,['electropop'],0.7857157796565486
+2W3VykgHAXYYFcKz,query_3,Miley Cyrus,Something About Space Dude,['experimental'],0.7843643357936949
+PNLSJajLOGUDAPyd,query_3,Gentle Giant,Pantagruel's Nativity,"['progressive rock', 'classic rock', 'art rock', 'rock', 'ambient', 'experimental', 'hard rock', 'jazz rock']",0.782115549541597
+L0PFQ0vv7PypWQOn,query_3,Guided by Voices,Buzzards and Dreadful Crows,"['lo fi', 'indie rock', 'alternative rock', 'rock', 'pop', 'indie pop', 'pub rock']",0.7781976016432764
+tbjOkdGL9PvwADZK,query_3,Demi Lovato,For You,"['electropop', 'pop']",0.7780525635530277
+06zhrAWwQitLxdXr,query_3,S. Carey,Mothers,"['folk', 'singer songwriter', 'indie folk', 'ambient']",0.7768387219236917
+dvfjEpKVTKFa4ykG,query_3,Katatonia,Sold Heart,"['progressive rock', 'progressive metal', 'rock', 'doom metal', 'metal', 'dark rock', 'alternative rock', 'indie rock', 'gothic metal', 'drama', 'melodic progressive metal']",0.7763008118795822
+QifBGvnSykodyhzv,query_3,Molejo,Cilada,['pagode'],0.7747921815140797
+zoVx87fOsgF5xb6X,query_3,All Time Low,I Feel Like Dancin',"['pop punk', 'pop', 'punk', 'rock', 'pop rock', 'alternative rock', 'power pop', 'easy listening', 'easycore']",0.7739828284382745
+2UjZzIZjJjFm9Efw,query_3,Cornelia Murr,Man On My Mind,['art pop'],0.7738981188498221
+GdQfL2mdoNVpPFuJ,query_3,Real Life,Send Me An Angel '89,"['new wave', 'pop', 'synthpop', 'new romantic', 'pop rock']",0.7727516365531025
+K2gMISj7br577RSV,query_3,Parachute,Something to Believe In,"['rock', 'alternative rock', 'pop rock', 'gospel']",0.7721046622651776
+vYPxtdtxMiYm19la,query_3,Nina Gordon,Now I Can Die,['singer songwriter'],0.7720762726574608
+87bPlsijwObv99qL,query_3,Sea Wolf,The Violet Hour,"['soundtrack', 'rock', 'pop', 'folk', 'indie pop', 'indie rock', 'singer songwriter', 'indie folk']",0.771346953012066
+Hy9v349PSF7EFSdu,query_3,Sorriso Maroto,Futuro Prometido,"['pagode', 'funk carioca', 'mpb', 'sertanejo']",0.7713301962099501
+v9aEPQsZ0d6FlVt6,query_3,Thievery Corporation,All That We Perceive,"['lounge', 'downtempo', 'trip hop', 'electronica', 'ambient', 'acid jazz', 'dub', 'nu jazz', 'chill out', 'jazz', 'lo fi', 'easy listening', 'funk']",0.7710199567020816
+M2XQTQtbTm6Cs4D2,query_3,Cher,I Wouldn't Treat a Dog (The Way You Treated Me),"['pop', 'blues', 'rock']",0.7705485545223081
+lUULW1UDykOZIygw,query_3,Circa Survive,Glass Arrows,"['alternative rock', 'post hardcore']",0.7704438022542472
+oU79dviwPg4R5AMw,query_3,The Subways,Holiday,"['indie rock', 'rock', 'garage rock', 'alternative rock', 'classic rock', 'singer songwriter', 'pop rock', 'britpop', 'art rock', 'alternative pop rock']",0.7704317028409041
+RoYGnxWhAQrYMigJ,query_3,Annie Lennox,Keep Young and Beautiful,"['pop', 'rock', 'soul', 'swing', 'soft rock', 'big band', 'show tunes']",0.7696679267627782
+Ia6XXjFbkZ7UnTtI,query_3,Leila Pinheiro,Catavento e Girassol,"['bossa nova', 'mpb']",0.76929177344964
+8ENlnKxaUi8GVC1s,query_3,Miike Snow,I Feel The Weight,"['indie pop', 'psychedelic pop', 'dream pop']",0.7691399670243055
+zxlnGZoud2KCmSaw,query_3,of Montreal,Gelid Ascent,"['rock', 'indie rock', 'singer songwriter']",0.7689326556768236
+dQ1IXkmYyX8syMzq,query_3,Varius Manx,Maj,"['pop rock', 'pop', 'rock', 'soft rock', 'polish rock']",0.7688107961850138
+mYVrbGa2RTgNi6Gy,query_3,Aerosmith,Toys in the Attic,"['hard rock', 'rock', 'classic rock', 'blues rock', 'rock and roll', 'punk', 'album rock', 'glam rock', 'metal', 'alternative rock', 'progressive rock', 'garage rock', 'singer songwriter', 'sleaze rock']",0.7685696652701771
+NxDuAw545ivgXqgP,query_3,Bastille,Of the Night,"['pop', 'indie pop', 'rock', 'alternative dance', 'electronica', 'alternative rock', 'indie rock', 'power pop', 'new wave', 'dance pop', 'house', 'indietronica', 'mashup', 'dream pop', 'synthpop', 'alternative pop', 'dance rock']",0.7682742479468225
+kDWLpXx8c6H75wCf,query_3,Ariana Grande,successful,"['hip hop', 'pop', 'soul', 'neo soul', 'trap', 'rap', 'doo wop', 'pop rap']",0.7681447364911391
+kVZUr0jaTFwSlmgQ,query_3,Dr. Hook,Sharing The Night Together,"['soft rock', 'classic rock', 'pop', 'rock', 'easy listening', 'country', 'blues', 'southern rock', 'yacht rock', 'romantico']",0.7680051124862489
+SugxX3euhXsUymSb,query_3,Dark Funeral,As One We Shall Conquer,"['black metal', 'metal', 'melodic black metal', 'swedish black metal']",0.7677140066270536
+RkhV6fYEL032N6zQ,query_3,Eyes Set to Kill,The World Outside,"['screamo', 'post hardcore', 'emocore', 'rock', 'alternative rock', 'alternative metal', 'melodic metal', 'metalcore', 'hardcore', 'emo', 'melodic metalcore']",0.7675377819425545
+L8Og27BahD91hNM6,query_3,Gus Dapperton,Of Lacking Spectacle,"['experimental', 'indie pop', 'lo fi']",0.7666538107118475
+Tac2uV3yb7PXxr1N,query_3,Bread,The Guitar Man,"['soft rock', 'classic rock', 'pop', 'rock', 'easy listening', 'country', 'folk', 'soundtrack', 'singer songwriter', 'disco', 'downtempo', 'progressive rock', 'pop rock', 'folk rock', 'rock and roll', 'southern rock', 'country rock']",0.7660165393606827
+x07yUSk5pSiWBDSn,query_3,The Gathering,Saturnine,"['gothic metal', 'progressive rock', 'alternative rock', 'rock', 'progressive metal', 'gothic rock', 'metal', 'doom metal', 'symphonic metal', 'pop', 'ambient', 'pop rock', 'experimental rock', 'symphonic rock', 'melodic death metal', 'trip hop', 'dream pop', 'avant garde', 'death metal', 'meditation']",0.7654450878450664
+ZAf1iz5crgmiHq4P,query_3,Soundgarden,Somewhere,"['grunge', 'rock', 'alternative rock', 'hard rock', 'alternative metal', 'stoner rock', 'metal', 'classic rock', 'rockabilly', 'gothic metal', 'psychedelic rock']",0.7654158560344754
+cBh0Uc9BzC3ofBZx,query_3,Stereophonics,Handbags and Gladrags,"['rock', 'britpop', 'pop', 'indie rock', 'alternative rock', 'soft rock', 'soundtrack', 'classic rock', 'soul', 'emo', 'pop rock', 'easy listening', 'blues']",0.7653518231042415
+DZ0T77wEWZL4B5jb,query_3,Laura Pausini,Invece no,"['pop', 'pop rock']",0.7653370270901609
+FV5ABL6CRsNLnjkt,query_3,My Darkest Days,Can't Forget You,"['alternative rock', 'christian rock', 'rock', 'emo', 'hard rock', 'pop rock']",0.7652453202181216
+cOiPR0OfSajxdtTf,query_3,Bombay Bicycle Club,Lamplight,"['indie rock', 'rock', 'indie pop', 'alternative rock']",0.7651276514622432
+owgNTOp52BmoLWAr,query_3,Team Sleep,Elizabeth,"['rock', 'alternative rock', 'ambient', 'easy listening', 'soft rock', 'sleep', 'electronica', 'experimental', 'indie rock', 'post rock', 'hard rock', 'progressive rock', 'stoner rock', 'techno', 'space rock']",0.7649261997455936
+c9C2ogWDRLUzJ9xE,query_3,Stone Sour,Miracles,"['alternative metal', 'rock', 'nu metal', 'metal', 'alternative rock', 'progressive metal', 'hard rock']",0.7647107320052066
+skkV6HxDPvrKHSSM,query_3,Sabrina Carpenter,Pushing 20,"['pop', 'trap']",0.7645498621077563
+jP4TifLBiphiktrm,query_3,Defeater,Empty Glass,"['hardcore', 'melodic hardcore', 'post hardcore', 'screamo', 'punk', 'emo', 'hardcore punk', 'glass']",0.7637541716450817
+cL1soIrpZpzjo6Ko,query_3,Johnny Cash,There You Go,"['country', 'singer songwriter', 'folk', 'rockabilly', 'gospel', 'rock and roll', 'country rock']",0.7631378071160515
+BuPBMSCm6zzM92Pj,query_3,Echosmith,Bright,"['pop', 'indie pop', 'pop rock', 'world', 'acoustic rock']",0.763018390648985
+tKotAx4Z1VDsLV2a,query_3,Everything Everything,Duet,"['indie rock', 'chamber pop', 'baroque pop', 'art pop']",0.7627972987111724
+dU36YHv6VDIoNYXF,query_3,Black Sabbath,Paranoid,"['classic rock', 'hard rock', 'rock', 'metal', 'doom metal', 'stoner rock', 'black metal', 'progressive rock', 'power metal', 'soundtrack']",0.762164637035027
+kCjoZhap3XdiCWsC,query_3,Against the Current,Wasteland,"['alternative rock', 'pop rock']",0.7615809528511773
+2hwKURB3KmwZawRT,query_3,The Hives,You Dress Up For Armageddon,"['rock', 'garage rock', 'indie rock', 'garage punk', 'punk', 'alternative rock', 'classic rock', 'hard rock', 'post punk', 'bible']",0.76132511818562
+aIHkRpvDISfojoSC,query_3,Hot Flash Heat Wave,Glo Ride,['indie rock'],0.7613067431896692
+ziT77Si01mOb5oZg,query_3,Frank Sinatra,Jingle Bells,"['jazz', 'swing', 'easy listening', 'bells', 'lounge']",0.7612423986733661
+hNPII41mRaGZumVx,query_3,Disclosure,Intro,"['house', 'future garage', 'uk funky', 'uk garage']",0.7610769962233094
+Tp9va1FbVPqMNm4b,query_3,The Get Up Kids,Close to Home,"['emo', 'pop punk', 'alternative rock', 'indie rock', 'rock', 'indie emo', 'jazz', 'punk', 'power pop', 'pop rock', 'post punk', 'emocore', 'alternative pop rock', 'emo punk']",0.7610369613039278
+C0pOIDmaYolvsgy9,query_3,Cocteau Twins,Sigh's Smell of Farewell,"['shoegaze', 'dream pop', 'post punk', 'synthpop']",0.7608415130974661
+NvVUJYOjutADKWDi,query_3,Deathstars,Arclight,"['industrial metal', 'industrial', 'gothic metal', 'metal', 'industrial rock', 'gothic rock']",0.7606481512366904
+gfoJezSqRJ4T5qeQ,query_3,Closure in Moscow,A Night at the Spleen,"['progressive rock', 'rock', 'experimental', 'post hardcore', 'alternative rock', 'indie rock', 'avant garde']",0.7604387119590872
+yZ7y5PFKxC1XlBLB,query_3,Motionless in White,Immaculate Misconception,"['metalcore', 'post hardcore', 'screamo', 'deathcore', 'reggaeton', 'queercore', 'goregrind', 'brutal death metal', 'deathgrind', 'brutal deathcore', 'metal', 'hardcore', 'emo', 'gothic metal', 'industrial metal', 'edm']",0.7603247910151302
+m0fnc04bKYILqqBQ,query_3,Bastille,Haunt (demo),"['indie rock', 'rock']",0.7600531403072178
+0YtkHiVwDlsMHXy0,query_3,Christina Aguilera,Without You,"['pop', 'soul', 'singer songwriter', 'r b', 'rock', 'dance pop', 'latin', 'rhythm and blues', 'neo soul']",0.759988924785302
+BQj8q8GCICSx39TN,query_3,the GazettE,WITHOUT A TRACE,"['j rock', 'visual kei', 'j pop']",0.759569813444582
+3pE71j3pC1Cl8h5I,query_3,The Cranberries,No Need to Argue,"['rock', 'alternative rock', 'indie rock', 'soft rock', 'classic rock', 'irish rock', 'pop', 'folk', 'pop rock', 'alternative pop', 'soundtrack', 'ambient', 'hard rock', 'singer songwriter', 'alternative pop rock', 'folk rock', 'easy listening', 'ambient pop', 'dream pop', 'drone', 'a cappella', 'alternative metal', 'chill out']",0.7594520943563657
+IWFOSAt5uDtoXWen,query_3,Little Mix,Love Me Like You,"['pop', 'talent show']",0.7589897640439593
+y7wjEOq4a6FnwhXu,query_3,Ellen Oléria,Testando,['mpb'],0.7588057494707913
+DmnQc7u5M2gd69VN,query_3,A Day to Remember,Bad Vibrations,"['metalcore', 'hardcore', 'pop punk']",0.7586314002366434
+mBAxnGf7O8iHxl9y,query_3,Olivia Holt,Generous,"['pop', 'dance pop']",0.7585647605189995
+0PLdz2RKGsXnnTDO,query_3,David Bowie,Rosalyn,"['glam rock', 'rock', 'classic rock', 'pop', 'rockabilly', 'singer songwriter', 'progressive rock', 'protopunk']",0.758325195091511
+qUkFjTESBWgMVveZ,query_3,A Tribe Called Quest,Award Tour,"['hip hop', 'rap', 'underground hip hop', 'old school hip hop', 'jazz', 'funk', 'jazz rap', 'jazz fusion', 'alternative hip hop', 'east coast hip hop', 'soul', 'blues', 'avant garde']",0.7582895165440626
+hXg4xQvc1sgGkw1B,query_3,Paradise Lost,Gothic,"['gothic metal', 'doom metal', 'metal', 'death metal', 'gothic doom', 'death doom', 'progressive metal', 'melodic death metal', 'gothic rock', 'atmospheric doom']",0.7577115314355761
+PBFAxExx5KTjrNWE,query_3,Dreezy,RIP Aretha,['rap'],0.7575385873489068
+8kmKFOfenCvqvoP6,query_3,Stam1na,Kadonneet kolme sanaa,"['thrash metal', 'metal', 'finnish metal', 'progressive metal', 'death metal']",0.7573869649896685
+aGenGqyAioKQzm71,query_3,Wolfmother,Dimension,"['rock', 'hard rock', 'stoner rock', 'psychedelic rock', 'alternative rock', 'classic rock', 'indie rock', 'progressive rock', 'metal', 'garage rock', 'alternative metal', 'rock and roll', 'stoner metal', 'punk', 'heavy psych']",0.7573780394713338
+3nPn3n2vAGS8bhzp,query_3,A Place to Bury Strangers,My Weakness,"['shoegaze', 'noise rock', 'noise', 'post rock', 'rock', 'indie rock', 'psychedelic rock', 'post punk', 'noise pop', 'alternative rock', 'experimental', 'experimental rock', 'space rock', 'no wave']",0.7573638196059753
+P6Q4se1hZqy9PEgh,query_3,Bon Jovi,This Ain't A Love Song,"['rock', 'hard rock', 'classic rock', 'pop', 'metal', 'country', 'album rock']",0.7571289853378105
+2ekVWpFnEgAWatng,query_3,Charly Bliss,Heaven,['shoegaze'],0.7571092795154054
+Gp12UXU2gYdzes3O,query_3,Henri Salvador,Jardin d'hiver,"['bossa nova', 'jazz', 'chanson', 'pop', 'easy listening', 'french pop', 'world', 'latin']",0.7568716148987668
+2t6cSjrfZqqXJqhv,query_3,Sepultura,Arise - Reissue,"['thrash metal', 'death metal']",0.7568276126351602
+aaNqfMsIh8nmzAJu,query_3,Nightwish,The Kinslayer,"['symphonic metal', 'gothic metal', 'power metal', 'metal', 'symphonic power metal', 'opera metal', 'melodic metal', 'rock', 'finnish metal', 'gothic rock', 'progressive metal', 'symphonic rock', 'melodic power metal', 'gothic symphonic metal', 'hard rock', 'progressive rock', 'viking metal', 'celtic']",0.756733768703327
+hFNplnKfNXorAgNV,query_3,Linkin Park,Hit the Floor,"['nu metal', 'rock', 'alternative rock', 'metal', 'hard rock', 'alternative metal', 'rap', 'rap metal', 'hip hop', 'screamo', 'pop', 'rap rock', 'pop rock']",0.7565263693033474
+z4pfNCH1xUBerW1h,query_3,Steely Dan,My Rival,"['classic rock', 'rock', 'jazz rock', 'soft rock', 'jazz', 'pop', 'jazz fusion', 'smooth jazz']",0.7564605921052233
+8xZbP00VbufGKeYj,query_3,Frans,If I Were Sorry,"['eurovision', 'pop', 'folktronica']",0.7564492586662219
+WhSzBbGKdGiNuDKZ,query_3,Thee Oh Sees,Plastic Plant,"['rock', 'indie rock', 'lo fi']",0.7563579307318243
+Eo6N9jIZKJTOwrKh,query_3,Smino,Father Son Holy Smoke,"['hip hop', 'rap']",0.7563398961395699
+XZEzDv414B7hP35u,query_3,Dungen,Sluta Följa Efter,"['rock', 'psychedelic rock', 'experimental', 'indie rock']",0.7562713966556459
+ubGz9esop9IWnc9o,query_3,Austra,Hate Crime,"['synthpop', 'new wave', 'coldwave', 'indie pop', 'easy listening', 'melancholia']",0.7559866985487613
+UqKKvOPkqaOt0llF,query_3,Joe Jackson,Is She Really Going Out With Him?,"['new wave', 'rock', 'pop', 'singer songwriter', 'classic rock', 'punk', 'pop rock', 'soft rock', 'alternative rock', 'power pop', 'progressive rock', 'album rock', 'britpop', 'post punk', 'lounge']",0.7559388930789602
+xqbQ3PqqJ6qkfgR2,query_3,Cold Cave,Burning Sage,"['pop', 'post punk']",0.7559182721466966
+5rcsa2ZbpzYEcsvU,query_3,Isaac Hayes,Walk on By,"['soul', 'funk', 'rhythm and blues', 'classic soul', 'blues', 'motown', 'soundtrack', 'jazz', 'quiet storm', 'lounge', 'pop', 'jazz funk', 'r b', 'erotica']",0.755709577850027
+LtRhBa3BoAjDFDiM,query_3,These New Puritans,Fragment Two,"['rock', 'indie rock', 'downtempo', 'chamber pop', 'art rock', 'contemporary classical']",0.7556948102065242
+UjBjzDFyFPZYq3AK,query_3,Destruction,Dissatisfied Existence,"['thrash metal', 'german thrash metal', 'metal']",0.7556864866628122
+junlOY5MA1D8IMIT,query_3,Oasis,Songbird,"['britpop', 'rock', 'alternative rock', 'indie rock', 'pop', 'pop rock', 'hard rock', 'singer songwriter', 'soft rock', 'blues']",0.7554528242208032
+uB2ElnNLngpQxnh4,query_3,Kylie Minogue,Did It Again,"['pop', 'pop rock', 'rock', 'electronica', 'indie rock', 'alternative dance', 'alternative rock', 'europop']",0.7554200145176251
+TJdRpocLhQ7jKACc,query_3,Motörhead,No Class,"['hard rock', 'metal', 'rock', 'speed metal', 'classic rock', 'rock and roll', 'nwobhm', 'punk', 'power metal', 'thrash metal']",0.755176246740226
+JOXJtqBv7ptLmaK3,query_3,Breaking Benjamin,What Lies Beneath,"['alternative rock', 'rock', 'hard rock', 'post grunge', 'alternative metal', 'metal', 'hardcore', 'screamo', 'modern rock', 'hollywood']",0.7551016761670539
+fRNESz7CwtzIGozb,query_3,Frank Sinatra,Santa Claus Is Coming To Town,"['jazz', 'swing', 'soul', 'easy listening']",0.7550330278516518
+8mZw65m4XHEBruvw,query_3,Rancore,Ritual,['rock'],0.754993922757277
+SP3961Ag90ndYSNp,query_3,The Marshall Tucker Band,Last Of The Singing Cowboys,['southern rock'],0.7549582027577538
+OD6sfVyohxUZAO36,query_3,T.I.,Top Back,"['hip hop', 'rap', 'crunk', 'southern hip hop', 'dirty south rap']",0.7547385675804467
+8hRE1uWqC5hs99dj,query_3,The Velvet Underground,Stephanie Says,"['classic rock', 'rock', 'experimental rock', 'pop', 'soundtrack', 'avant garde', 'alternative rock', 'experimental', 'art rock', 'punk', 'violin', 'psychedelic rock', 'rockabilly', 'emo', 'folk', 'indie pop', 'indie rock', 'noise rock', 'hard rock', 'power pop', 'psychedelic pop', 'bells', 'cello']",0.7546567552709443
+5Sphp86gyPJTkqEP,query_3,Emma Ruth Rundle,Marked For Death,['folk'],0.7546549540457358
